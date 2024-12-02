@@ -18,7 +18,8 @@ Half adder is a combinational circuit that performs simple addition of two binar
 
 Sum = A’B+AB’ =A ⊕ B Carry = AB
 
-![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/bd4a0b2c-cdbc-4184-ab08-81578f121e1f)
+![Screenshot 2024-12-02 112243](https://github.com/user-attachments/assets/9cb74947-9b2c-4a3c-827f-a63370b418bf)
+
 
 Figure -01 HALF ADDER
 
@@ -29,11 +30,17 @@ The half-subtractor is a combinational circuit which is used to perform subtract
 Diff = A’B+AB’ =A ⊕ B
 Borrow = A’B
 
- ![image](https://github.com/naavaneetha/HALF_ADDER_SUBTRACTOR/assets/154305477/d76b099c-513f-4e7c-843a-e2fd028a531a)
+![Screenshot 2024-12-02 112804](https://github.com/user-attachments/assets/fea1f54c-e525-4d60-86c4-a9d52a028843)
+
 
 Figure -02 HALF Subtractor
 
 **Truthtable**
+**HALF ADDER**
+![Screenshot 2024-12-02 112948](https://github.com/user-attachments/assets/e7ae864e-a87f-40a8-b194-283502a52687)
+
+**HALF SUBTRACTOR**
+![Screenshot 2024-12-02 112956](https://github.com/user-attachments/assets/70fb72d8-36ef-4024-a99d-13ffabb6026f)
 
 **Procedure**
 
@@ -52,10 +59,27 @@ Figure -02 HALF Subtractor
 
 /* Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
 
-Developed by: RegisterNumber:*/
+**HALF ADDER**
+![Screenshot 2024-12-02 111154](https://github.com/user-attachments/assets/98259253-121f-4f43-8cb6-94b7fd3818b8)
+
+**HALF SUBTRACTOR**
+
+![Screenshot 2024-12-02 112721](https://github.com/user-attachments/assets/18e53af9-5635-4f8c-97ee-05453a1d08a6)
+
+**Developed by: JAYAGANAPATHI S**
+**RegisterNumber: 24900059**
 
 **RTL Schematic**
+**HALF ADDER**
+![Screenshot 2024-12-02 112243](https://github.com/user-attachments/assets/9610f39a-b4b9-4c13-a11b-6f1c1867b057)
+**HALF SUBTRACTOR**
+![Screenshot 2024-12-02 112804](https://github.com/user-attachments/assets/42037d98-6b1c-4da0-b11d-53b0aa8357ee)
+
 
 **Output/TIMING Waveform**
+![Screenshot 2024-12-02 113514](https://github.com/user-attachments/assets/95b2386e-1950-467a-91cc-722266a1fcb5)
+
+![Screenshot 2024-12-02 113526](https://github.com/user-attachments/assets/5d129b81-9b29-466f-af34-86ee488ddc3e)
 
 **Result:**
+ Thus designed a half adder and half subtractor circuit and verified its truth table in Quartus using Verilog programming.
